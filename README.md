@@ -3,3 +3,4 @@
 Kurs Excel od podstaw
 - Podstawy pracy z danymi
 - Funkcje przydatne w analizie danych - TABELA
+- TABELE PRZESTAWNE
