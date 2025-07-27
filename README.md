@@ -21,3 +21,5 @@ Zmian dokonanych na wielu arkuszach jednocześnie nie można cofnąć? PRAWDA
 
 
 # Kurs Excel - zaawansowane funkcje i formuły
+
+- <img width="528" height="681" alt="image" src="https://github.com/user-attachments/assets/e4992c28-35ae-4f5c-b477-b721db495d2c" />
