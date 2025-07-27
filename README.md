@@ -1,6 +1,6 @@
 # Microsoft-Excel---Microsoft-365
 
-Kurs Excel od podstaw
+Kurs Excel 2019 od podstaw
 - Podstawy pracy z danymi
 - Funkcje przydatne w analizie danych - TABELA
 - TABELE PRZESTAWNE
