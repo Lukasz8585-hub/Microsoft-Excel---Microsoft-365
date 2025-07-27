@@ -5,3 +5,4 @@ Kurs Excel od podstaw
 - Funkcje przydatne w analizie danych - TABELA
 - TABELE PRZESTAWNE
 - Największe problemy w Excelu - BŁĘDY, DZIAŁA WOLNO - WIESZA SIĘ
+- Szybsza praca - PORADY
