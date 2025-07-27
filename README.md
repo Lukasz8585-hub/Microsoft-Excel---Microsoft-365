@@ -10,3 +10,13 @@ Kurs Excel 2019 od podstaw
 
 TEST
 -----------------------------------------------
+Dla tabeli przestawnej można stworzyć wykres punktowy ? FAŁSZ
+Gdzie nie znajdziesz przycisku do nagrywania makra? W karcie dane
+Za pomocą funkcjonalności suma częściowa można liczyć średnią.  PRAWDA
+Jaki klawisz połączony z kolejnymi cyframi uruchamia funkcje paska narzędzi szybki dostęp? Lewy Alt
+Nazwane zakresy przyspieszają działanie Excela? FAŁSZ
+Jaki błąd pokaże się, gdy spróbujesz wyszukać pionowo wartość, której nie ma w tabeli? #N/D!
+Jaki dodatek pomoże w podsumowaniu danych z wielu plików? Power Query
+Zmian dokonanych na wielu arkuszach jednocześnie nie można cofnąć? PRAWDA
+
+
