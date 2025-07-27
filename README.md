@@ -20,3 +20,4 @@ Jaki dodatek pomoże w podsumowaniu danych z wielu plików? Power Query
 Zmian dokonanych na wielu arkuszach jednocześnie nie można cofnąć? PRAWDA
 
 
+# Kurs Excel - zaawansowane funkcje i formuły
