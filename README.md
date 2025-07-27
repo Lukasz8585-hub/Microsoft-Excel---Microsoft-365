@@ -6,3 +6,7 @@ Kurs Excel 2019 od podstaw
 - TABELE PRZESTAWNE
 - Największe problemy w Excelu - BŁĘDY, DZIAŁA WOLNO - WIESZA SIĘ
 - Szybsza praca - PORADY
+
+
+TEST
+-----------------------------------------------
